@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class DistribuidosConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'distribuidos'
+    name = 'apps.distribuidos'
